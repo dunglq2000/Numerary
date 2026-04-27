@@ -1,7 +1,7 @@
 // maximum.cpp
 // (c) Tivole
 
-#include "numerary.hpp"
+#include <Numerary/numerary.hpp>
 
 namespace numerary
 {

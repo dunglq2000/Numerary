@@ -3,7 +3,7 @@
 
 
 // Numerary includes
-#include "numerary.hpp"
+#include <Numerary/numerary.hpp>
 
 namespace numerary
 {

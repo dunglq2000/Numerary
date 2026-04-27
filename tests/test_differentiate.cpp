@@ -2,7 +2,7 @@
 // (c) Tivole
 
 #include <boost/test/unit_test.hpp>
-#include "../src/numerary.hpp"
+#include <Numerary/numerary.hpp>
 
 namespace numerary
 {
